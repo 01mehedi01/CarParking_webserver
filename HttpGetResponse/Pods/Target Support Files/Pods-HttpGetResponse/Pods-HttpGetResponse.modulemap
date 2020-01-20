@@ -1,0 +1,6 @@
+framework module Pods_HttpGetResponse {
+  umbrella header "Pods-HttpGetResponse-umbrella.h"
+
+  export *
+  module * { export * }
+}
